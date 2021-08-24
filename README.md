@@ -1,1 +1,1 @@
-# COVID-19-Vaccinatios
+# COVID-19-Vaccinations
